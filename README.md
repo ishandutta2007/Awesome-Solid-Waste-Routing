@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Routeware](https://www.routeware.com/)**  
-
-  Comprehensive waste and recycling operations platform offering route optimization, dispatch, service verification, fleet tools, and resident engagement for municipal and commercial fleets.
-
-
-
-- **[Rubicon](https://www.rubicon.com/)**  
-
-  Digital waste and recycling platform providing routing, dispatch, proof-of-service, analytics, and smart-city capabilities for haulers and municipalities.
-
-
-
-- **[AMCS](https://www.amcsgroup.com/)**  
-
-  Enterprise waste management platform with advanced routing, dispatch, weighbridge integration, multi-stream operations, and sustainability/ESG reporting.
-
-
-
-- **[Evreka](https://evreka.co/)**  
-
-  Smart waste management and IoT-enabled platform supporting route optimization, sensor-based collection, and operational visibility for cities and operators.
-
-
-
-- **[Soft-Pak](https://www.soft-pak.com/)**  
-
-  Waste industry software focused on route management, fleet intelligence, service verification, billing, and connected truck operations.
-
-
-
-- **[ReCollect](https://recollect.net/)**  
-
-  Resident-facing and municipal collection platform emphasizing curbside schedules, service communication, and operational support for waste programs.
-
-
-
-- **[RouteSmart](https://www.routesmart.com/)**  
-
-  Specialized route planning and optimization software widely used for waste collection sequencing, missed-service reporting, and high-density stop networks.
-
-
-
-- **[Waste Logics](https://www.wastelogics.com/)**  
-
-  Waste management software covering routing, scheduling, fleet operations, and business processes for haulers and recyclers.
-
-
-
-- **[Recycle Track Systems (RTS)](https://www.rts.com/)**  
-
-  Technology-enabled waste and recycling services platform with tracking, routing support, and digital tools for commercial and municipal customers.
-
-
-
-- **[Tower Systems](https://www.towersystems.com/)**  
-
-  Waste industry software solutions supporting operational management, routing, and related back-office functions for collection companies.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Routeware](https://www.routeware.com/)** | Comprehensive waste and recycling operations platform offering route optimization, dispatch, service verification, fleet tools, and resident engagement for municipal and commercial fleets. | Custom / Contact Sales | N/A |
+| **[Rubicon](https://www.rubicon.com/)** | Digital waste and recycling platform providing routing, dispatch, proof-of-service, analytics, and smart-city capabilities for haulers and municipalities. | Custom / Contact Sales | N/A |
+| **[AMCS](https://www.amcsgroup.com/)** | Enterprise waste management platform with advanced routing, dispatch, weighbridge integration, multi-stream operations, and sustainability/ESG reporting. | Custom / Contact Sales | N/A |
+| **[Evreka](https://evreka.co/)** | Smart waste management and IoT-enabled platform supporting route optimization, sensor-based collection, and operational visibility for cities and operators. | Custom / Contact Sales | N/A |
+| **[Soft-Pak](https://www.soft-pak.com/)** | Waste industry software focused on route management, fleet intelligence, service verification, billing, and connected truck operations. | Custom / Contact Sales | N/A |
+| **[ReCollect](https://recollect.net/)** | Resident-facing and municipal collection platform emphasizing curbside schedules, service communication, and operational support for waste programs. | Custom / Contact Sales | N/A |
+| **[RouteSmart](https://www.routesmart.com/)** | Specialized route planning and optimization software widely used for waste collection sequencing, missed-service reporting, and high-density stop networks. | Custom / Contact Sales | N/A |
+| **[Waste Logics](https://www.wastelogics.com/)** | Waste management software covering routing, scheduling, fleet operations, and business processes for haulers and recyclers. | Custom / Contact Sales | N/A |
+| **[Recycle Track Systems (RTS)](https://www.rts.com/)** | Technology-enabled waste and recycling services platform with tracking, routing support, and digital tools for commercial and municipal customers. | Custom / Contact Sales | N/A |
+| **[Tower Systems](https://www.towersystems.com/)** | Waste industry software solutions supporting operational management, routing, and related back-office functions for collection companies. | Custom / Contact Sales | N/A |
 
 
 
