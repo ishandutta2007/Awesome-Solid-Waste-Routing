@@ -30,16 +30,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Size / Valuation |
 |---------|-------------|---------|-----------------|--------------------------|
-| **[Rubicon](https://www.rubicon.com/)** | Digital waste and recycling platform providing routing, dispatch, proof-of-service, analytics, and smart-city capabilities. | Custom / Contact Sales | N/A | ~$1.7B (Historically) |
-| **[AMCS](https://www.amcsgroup.com/)** | Enterprise waste management platform with advanced routing, dispatch, weighbridge integration, multi-stream operations. | Custom / Contact Sales | N/A | ~$1.5B (Unicorn) |
-| **[Routeware](https://www.routeware.com/)** | Comprehensive waste operations platform offering route optimization, dispatch, fleet tools, and resident engagement. | Custom / Contact Sales | N/A | ~$200M+ (PE-backed) |
-| **[Recycle Track Systems (RTS)](https://www.rts.com/)** | Technology-enabled waste services platform with tracking, routing support, and digital tools. | Custom / Contact Sales | N/A | ~$100M+ |
-| **[RouteSmart](https://www.routesmart.com/)** | Specialized route planning software widely used for high-density stop networks and sequencing. | Custom / Contact Sales | N/A | ~$50M+ |
-| **[Evreka](https://evreka.co/)** | Smart waste management IoT platform supporting route optimization, sensor-based collection. | Custom / Contact Sales | N/A | ~$20M+ |
-| **[Soft-Pak](https://www.soft-pak.com/)** | Waste industry software focused on route management, fleet intelligence, and connected truck operations. | Custom / Contact Sales | N/A | Acquired (AMCS) |
-| **[Waste Logics](https://www.wastelogics.com/)** | Waste management software covering routing, scheduling, fleet operations. | Custom / Contact Sales | N/A | Acquired (Reconomy) |
-| **[ReCollect](https://recollect.net/)** | Resident-facing collection platform emphasizing curbside schedules and service communication. | Custom / Contact Sales | N/A | Acquired (Routeware) |
-| **[Tower Systems](https://www.towersystems.com/)** | Waste industry software solutions supporting operational management, routing. | Custom / Contact Sales | N/A | ~$5M+ |
+| **[Rubicon](https://www.rubicon.com/)** | Digital waste and recycling platform providing routing, dispatch, proof-of-service, analytics, and smart-city capabilities. | Custom (Per Vehicle/Month) | N/A | ~$1.7B (Historically) |
+| **[AMCS](https://www.amcsgroup.com/)** | Enterprise waste management platform with advanced routing, dispatch, weighbridge integration, multi-stream operations. | Custom (Enterprise License) | N/A | ~$1.5B (Unicorn) |
+| **[Routeware](https://www.routeware.com/)** | Comprehensive waste operations platform offering route optimization, dispatch, fleet tools, and resident engagement. | Custom (Per Vehicle/Month) | N/A | ~$200M+ (PE-backed) |
+| **[Recycle Track Systems (RTS)](https://www.rts.com/)** | Technology-enabled waste services platform with tracking, routing support, and digital tools. | Custom (Volume-based) | N/A | ~$100M+ |
+| **[RouteSmart](https://www.routesmart.com/)** | Specialized route planning software widely used for high-density stop networks and sequencing. | Custom (Per Route/Month) | N/A | ~$50M+ |
+| **[Evreka](https://evreka.co/)** | Smart waste management IoT platform supporting route optimization, sensor-based collection. | Custom (Per Asset/Sensor + SaaS) | N/A | ~$20M+ |
+| **[Soft-Pak](https://www.soft-pak.com/)** | Waste industry software focused on route management, fleet intelligence, and connected truck operations. | Custom (Enterprise License) | N/A | Acquired (AMCS) |
+| **[Waste Logics](https://www.wastelogics.com/)** | Waste management software covering routing, scheduling, fleet operations. | Custom (Per User/Month) | N/A | Acquired (Reconomy) |
+| **[ReCollect](https://recollect.net/)** | Resident-facing collection platform emphasizing curbside schedules and service communication. | Custom (Per Household/Municipality) | N/A | Acquired (Routeware) |
+| **[Tower Systems](https://www.towersystems.com/)** | Waste industry software solutions supporting operational management, routing. | Custom (Per User/Month) | N/A | ~$5M+ |
 
 ## 💻 Open-Source GitHub Projects
 
